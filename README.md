@@ -1,10 +1,6 @@
-##Oi! eus ou o Matheus
+##Oi! eu sou o Matheus
 
-- 🔭 Atualmente eu estou trabalhando com front-end
-- 🌱 Estou estudando javascript e React.js
-- 😄 Pronomes: ele/dele
-
- <div>
+<div>
   <a href="https://github.com/matheus-forte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-forte&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-forte&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -23,6 +19,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/matheus-forte/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matheus-forte/matheus-forte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
